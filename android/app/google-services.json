@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873574170721",
+    "firebase_url": "https://shopping-app-51722-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopping-app-51722",
+    "storage_bucket": "shopping-app-51722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873574170721:android:b76c8ccf37eec9eedaaa20",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873574170721-2kn0475ji3gagakmuiji7oppel3n5n73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbIE9r-WG5ZESCz55wlje9zRDhzngPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873574170721-2kn0475ji3gagakmuiji7oppel3n5n73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
