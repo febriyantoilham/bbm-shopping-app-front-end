@@ -34,9 +34,6 @@ class MyApp extends StatelessWidget {
         return GetBuilder<ProductController>(builder: (_) {
           return GetMaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'Flutter Demo',
-            // home: const LoginPage(),
-            // home: SplashScreen(),
             initialRoute: RouteHelper.getSplash(),
             getPages: RouteHelper.routes,
             theme: ThemeData(
