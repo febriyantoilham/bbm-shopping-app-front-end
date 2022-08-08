@@ -4,7 +4,7 @@ class AppConstans {
   static const int appVersion = 1;
 
   // static const String baseUrl = "http://10.0.2.2:8000";
-  // static const String baseUrl = "https://2f0d-103-136-58-203.ap.ngrok.io";
+  // static const String baseUrl = "https://lucky-moose-100.loca.lt";
   static const String baseUrl = "http://shop.babakanbinamandiri.store";
   static const String recommendedUrl = "/api/v1/products/recommended";
   static const String popularUrl = "/api/v1/products/popular";
